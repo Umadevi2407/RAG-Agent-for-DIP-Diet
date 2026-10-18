@@ -1,0 +1,18 @@
+# DIP Diet RAG Agent — Dependencies
+# Install with: pip install -r requirements.txt
+
+# ── UI & Visualization ────────────────────────────────
+streamlit==1.66.0
+plotly==7.1.0
+pandas==2.3.3
+
+# ── Vector Store & Embeddings ─────────────────────────
+chromadb==1.5.9
+onnxruntime==1.31.0
+
+# ── IBM watsonx.ai LLM ───────────────────────────────
+ibm_watsonx_ai==1.8.0
+
+# ── Utilities ────────────────────────────────────────
+python-dotenv==1.2.4
+numpy==2.5.4
