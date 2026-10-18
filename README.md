@@ -1,5 +1,5 @@
 # 🥗 RAG Agent for DIP Diet
-**Problem Statement No. 9 — Disciplined & Intelligent Plan Diet Assistant**
+**Problem Statement — Disciplined & Intelligent Plan Diet Assistant**
 
 An intelligent diet assistant built with **Vector Store RAG**, **IBM Granite on watsonx.ai**, and **Streamlit** — delivering personalized DIP Diet recommendations through conversational AI.
 
